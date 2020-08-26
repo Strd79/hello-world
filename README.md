@@ -9,4 +9,4 @@ I changed this on GitHub to try and pull into git on my Mac.
 
 I changed this again in Git, to then push to GitHub.
 
-New line
+Trying to push this to gitHub using email address: strd79@hotmail.co.uk
